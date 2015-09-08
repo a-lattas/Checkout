@@ -1,0 +1,5 @@
+﻿Rizi Karolina,1000,0.8
+Makaronia Misko,1000,0.7
+Mastixa Xiou,50,2
+Krasi tis Pareas,5000,8.56
+Lacta Clasic,150,1
